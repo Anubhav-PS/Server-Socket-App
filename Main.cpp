@@ -87,7 +87,6 @@ int main() {
 		return 1;
 	}
 	cout << "\n SUCCESS: Client connected.";
-	cout << "\n IP Address of client is : " << ;
 	/*
 	* Receive data from client and send data to client.
 	*/
